@@ -1,0 +1,13 @@
+C:\Users\joel.hellman\Documents\Interaktiv Berättelse\Berättelse\bin\Debug\netcoreapp3.1\Berättelse.exe
+C:\Users\joel.hellman\Documents\Interaktiv Berättelse\Berättelse\bin\Debug\netcoreapp3.1\Berättelse.deps.json
+C:\Users\joel.hellman\Documents\Interaktiv Berättelse\Berättelse\bin\Debug\netcoreapp3.1\Berättelse.runtimeconfig.json
+C:\Users\joel.hellman\Documents\Interaktiv Berättelse\Berättelse\bin\Debug\netcoreapp3.1\Berättelse.runtimeconfig.dev.json
+C:\Users\joel.hellman\Documents\Interaktiv Berättelse\Berättelse\bin\Debug\netcoreapp3.1\Berättelse.dll
+C:\Users\joel.hellman\Documents\Interaktiv Berättelse\Berättelse\bin\Debug\netcoreapp3.1\Berättelse.pdb
+C:\Users\joel.hellman\Documents\Interaktiv Berättelse\Berättelse\obj\Debug\netcoreapp3.1\Berättelse.csprojAssemblyReference.cache
+C:\Users\joel.hellman\Documents\Interaktiv Berättelse\Berättelse\obj\Debug\netcoreapp3.1\Berättelse.AssemblyInfoInputs.cache
+C:\Users\joel.hellman\Documents\Interaktiv Berättelse\Berättelse\obj\Debug\netcoreapp3.1\Berättelse.AssemblyInfo.cs
+C:\Users\joel.hellman\Documents\Interaktiv Berättelse\Berättelse\obj\Debug\netcoreapp3.1\Berättelse.csproj.CoreCompileInputs.cache
+C:\Users\joel.hellman\Documents\Interaktiv Berättelse\Berättelse\obj\Debug\netcoreapp3.1\Berättelse.dll
+C:\Users\joel.hellman\Documents\Interaktiv Berättelse\Berättelse\obj\Debug\netcoreapp3.1\Berättelse.pdb
+C:\Users\joel.hellman\Documents\Interaktiv Berättelse\Berättelse\obj\Debug\netcoreapp3.1\Berättelse.genruntimeconfig.cache
